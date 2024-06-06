@@ -1,8 +1,8 @@
 ### Hi there 👋 This is Amaithi, I welcome You to my Personal Lab lol.. 
 
-- 🔭 I’m currently working on some ML_ops Projects
+- 🔭 I’m currently working on some Gen AI Projects
 - 🌱 I’m currently learning Full Data Science
-- 👯 I’m looking to collaborate on Some interesting Data Centric Proj
+- 👯 I’m looking to collaborate on Some interesting Gen AI or NLP Proj
 - 📫 How to reach me: amaithichirasan.s@gmail.com
 - 😄 Pronouns: Good things need motivation Great things Require Obsession
 - ⚡ Fun fact: I'm the Next Elon musk
